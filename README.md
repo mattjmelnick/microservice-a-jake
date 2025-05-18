@@ -62,4 +62,4 @@ ___
 
 ## UML Diagram
 
-![UML Diagram] (/uml-diagram.png)
+<img width="1143" alt="uml-diagram" src="https://github.com/user-attachments/assets/3cac54f5-eae5-4b50-b1d6-0d654470d8d8" />
